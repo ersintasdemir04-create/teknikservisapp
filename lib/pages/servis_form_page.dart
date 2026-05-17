@@ -181,7 +181,7 @@ class _ServisFormPageState extends State<ServisFormPage> {
                 onPressed: () async {
                   final img = await key.currentState?.exportImage();
 
-                  Navigator.pop(context, img);
+                  Navigator.pop(context);
                 },
               ),
             ],
@@ -189,6 +189,7 @@ class _ServisFormPageState extends State<ServisFormPage> {
           body: ImagePainter.memory(
             bytes,
             key: key,
+            controller: ImagePainterController(),
           ),
         ),
       ),
