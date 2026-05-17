@@ -30,7 +30,7 @@ dependencies:
 
 
 
-  qr_flutter: ^4.1.0
+  
 
   shared_preferences: ^2.2.3
 
