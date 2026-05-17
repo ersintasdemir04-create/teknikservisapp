@@ -12,7 +12,6 @@ dependencies:
   firebase_auth: ^4.19.0
   cloud_firestore: ^4.17.0
 
-  image_painter: ^0.6.1
 
 
 
