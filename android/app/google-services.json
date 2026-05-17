@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "598739580449",
+    "project_id": "teknik-servis-7694c",
+    "storage_bucket": "teknik-servis-7694c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:598739580449:android:4354db2cbecfd29360d560",
+        "android_client_info": {
+          "package_name": "com.example.teknik_servis"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOA1WovcoT_pcTA4uWB4Qak2shylLg6Xk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
